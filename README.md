@@ -13,9 +13,11 @@ Taskinator is a task tracking app created by following the steps of a course mod
 
 ## Usage
 
-Open website and use input sections to add the name of your task, and the type of your task. Use the edit or delete buttons to modify the task, and the drop down menu to change tasks from to-do to in progress or complete. 
+Open website and use input sections to add the name of your task, and the type of your task. Use the edit or delete buttons to modify the task, and the drop down menu to change tasks from to-do to in progress or complete.
 
 ## Application
+
+![screenshot](./assets/images/screenshot.png)
 
 [Link to Deployed Application](https://gilinamcbride.github.io/taskinator/)
 
